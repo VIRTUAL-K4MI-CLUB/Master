@@ -23,7 +23,7 @@ Syntax highlighted code block
 3. I
 4. I
 
-[KILLME](https://github.com/CoffeeMan240/GitHubAudioPlayerExampleRepo/blob/main/DSBM.mp3)
+[KILLME](https://virtual-k4mi-club.github.io/Master/DEATHNOTE)
 [UWU](https://github.com/VIRTUAL-K4MI/K4MI-META-CORE/blob/Master/PURPLE.mp3)
 
 **Bold** and _Italic_ and `Code` text
