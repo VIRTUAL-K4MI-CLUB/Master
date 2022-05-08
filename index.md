@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [KILLME](https://github.com/CoffeeMan240/GitHubAudioPlayerExampleRepo/blob/main/DSBM.mp3)
 
-[UWU]()
+[UWU](https://github.com/VIRTUAL-K4MI/K4MI-META-CORE/blob/Master/PURPLE.mp3)
 
 **Bold** and _Italic_ and `Code` text
 [YESYES]()
