@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 [KILLME](https://github.com/CoffeeMan240/GitHubAudioPlayerExampleRepo/blob/main/DSBM.mp3)
 
-[UWU](https://github.com/VIRTUAL-K4MI-CLUB/Master#:~:text=20(3).mp4-,videoplayback,-%2D2.3.mp4)
+[UWU]()
 
 **Bold** and _Italic_ and `Code` text
-[YESYES](https://github.com/VIRTUAL-K4MI-CLUB/Master/blob/gh-pages/videoplayback%20(2).mp3)
+[YESYES]()
 [Link](url) and ![Image](src)
 ``
 LINKS TO MEDIA HERE [UWU](https://virtual-k4mi-club.github.io/Master/videoplayback%20(2).mp3)
