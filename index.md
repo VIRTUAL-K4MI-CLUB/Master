@@ -26,9 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ``
 LINKS TO MEDIA HERE
-https://github.com/VIRTUAL-K4MI/VIRTUAL-K4MI.GITHUB.IO/blob/Master/videoplayback%20(2).mp3
-https://user-images.githubusercontent.com/105128490/167277251-4d295002-e29c-4ee0-b0fb-316600244efa.mp4
-
+https://github.com/VIRTUAL-K4MI-CLUB/Master#:~:text=videoplayback%2D2.3.-,mp4
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
