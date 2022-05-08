@@ -25,7 +25,7 @@ Syntax highlighted code block
 [YESYES](https://github.com/VIRTUAL-K4MI-CLUB/Master/blob/gh-pages/videoplayback%20(2).mp3)
 [Link](url) and ![Image](src)
 ``
-LINKS TO MEDIA HERE [UWU](https://github.com/VIRTUAL-K4MI-CLUB/Master#:~:text=videoplayback%2D2.3.-,mp4)
+LINKS TO MEDIA HERE [UWU](https://github.com/VIRTUAL-K4MI-CLUB/Master/blob/gh-pages/README.md#:~:text=20(3).mp4-,videoplayback,-%2D2.3.mp4)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
