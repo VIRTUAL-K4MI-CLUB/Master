@@ -1,6 +1,6 @@
 ## VIRTUAL K4MI: coding my reality _in unity_
 
-THIS IS A TEST UWU  ....for my vr fluffy bois!
+THIS IS A TEST UWU   for my vr fluffy bois
 
 
 
