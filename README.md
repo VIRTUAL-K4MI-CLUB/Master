@@ -1,9 +1,9 @@
 
 _Hmmmmm._ 
 
-_Thats strange._ 
+_thats strange._ 
 
-_you shouldn't be here. there is nothing here._
+_you shouldn't be here. there is nothing to see here._
 
 ...
 
