@@ -1,6 +1,5 @@
 ## VIRTUAL K4MI
 THIS IS A TEST UWU                         
-![Image](https://virtual-k4mi-club.github.io/Master/gh-pages/274081922_703899790605229_7128817054304030362_n.jpg)
 
 
 
@@ -39,14 +38,15 @@ THIS IS A TEST UWU
 
 
 
+01010101.01010111.01010101 B
+## Welcome to my funnel
 
-You can use the [editor on GitHub](https://github.com/VIRTUAL-K4MI-CLUB/Master/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# links to my projects below
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for YADAYADAYADA
 
 ```markdown
 Syntax highlighted code block
@@ -58,13 +58,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List 
-3. I
-4. I
+1. Ara
+2.  Ara
+3.   yada
+4.    yada
 
 
-[Kill me](https://github.com/VIRTUAL-K4MI/K4MI-META-CORE/blob/Master/PURPLE.mp3)
+[Kill me]()
 
 **Bold** and _Italic_ and `Code` text
 
