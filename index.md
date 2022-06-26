@@ -1,5 +1,6 @@
-## VIRTUAL K4MI
-THIS IS A TEST UWU  for my vr fluffy bois
+## VIRTUAL K4MI # coding my reality
+
+THIS IS A TEST UWU  ....for my vr fluffy bois!
 
 
 
@@ -48,6 +49,8 @@ THIS IS A TEST UWU  for my vr fluffy bois
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+### VKz 3D Assetz storefront [?]() ![imagez]()
 
 ```markdown
 Syntax highlighted code block
