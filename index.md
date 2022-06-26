@@ -23,13 +23,13 @@ Syntax highlighted code block
 3. I
 4. I
 
-[KILLME](https://virtual-k4mi-club.github.io/Master/DEATHNOTE)
+[KILLME](                     https://virtual-k4mi-club.github.io/Master
 [UWU](https://github.com/VIRTUAL-K4MI/K4MI-META-CORE/blob/Master/PURPLE.mp3)
 
 **Bold** and _Italic_ and `Code` text
 
 [YESYES]()
-[Link](url) and ![Image](https://raw.githubusercontent.com/VIRTUAL-K4MI-CLUB/Master/gh-pages/274081922_703899790605229_7128817054304030362_n.jpg)
+[Link](url) and ![Image](https://virtual-k4mi-club.github.io/Master/gh-pages/274081922_703899790605229_7128817054304030362_n.jpg)
 ``
 
 LINKS TO MEDIA HERE [UWU](https://virtual-k4mi-club.github.io/Master/videoplayback%20(2).mp3)
