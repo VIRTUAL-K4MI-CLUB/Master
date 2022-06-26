@@ -18,7 +18,7 @@ Vrcat and neos data
 
 
 
-https://github.com/VIRTUAL-K4MI-CLUB/Master/blob/gh-pages/274081922_703899790605229_7128817054304030362_n.jpg
+
 
 
 
