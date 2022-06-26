@@ -56,7 +56,8 @@ _and darkness..._
 
 
 
-## _aight. fine. heres your easter egg. good job!_  +linktoeasteregg ?private world ?secret artwork ?unpublished beat
+## _aight. fine. heres your easter egg. good job!_  
++linktoeasteregg ?private world? ?secret artwork? ?unpublished beat?
 
 
 
