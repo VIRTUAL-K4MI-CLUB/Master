@@ -71,20 +71,22 @@ Syntax highlighted code block
 4.    yada
 
 
-[Kill me]()
+[]()
+
 
 **Bold** and _Italic_ and `Code` text
+Jekyll
 
 
- ### Jekyll
-
-[]()
+[x]()
 
 [Youtube]()
 
 [Twitch]()
 
-[]()
+[x]()
 
 [Twitter]()
+
+
  [documentation](https://docs.github.com/categories/github-pages-basics/)
