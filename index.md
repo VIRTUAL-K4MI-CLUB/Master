@@ -1,5 +1,6 @@
 ## VIRTUAL K4MI
-THIS IS A TEST UWU                         
+THIS IS A TEST UWU  for my vr fluffy bois
+
 
 
 
@@ -87,6 +88,14 @@ Jekyll
 [x]()
 
 [Twitter]()
+
+
+
+[Patreon]() ![image]()
+
+[Merch]()
+
+- # merchlist
 
 
  [documentation](https://docs.github.com/categories/github-pages-basics/)
