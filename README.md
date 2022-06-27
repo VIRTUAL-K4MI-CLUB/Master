@@ -83,7 +83,7 @@ X Tier 01
 
 - blep
 
-- vip roomz
+- 
 
 -
 
@@ -97,7 +97,7 @@ X Tier 02
 
 - avatar picz in world (asthetic 3D photoz only) (memes and irl picz will not be accepted into world.)
 
--
+- VIP roomz
 
 -
 
@@ -120,9 +120,10 @@ X Tier04*
 
 - Invite to studio 04 (free of charge)
 
-- Special blackout room (no door. only jump x-y- code) (code and blackout room location changes monthly)
+- Special VIP blackout room (no door. only jump x-y- code *linked to terminal*) (code and blackout room location changes monthly)
 
 x- disable (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role only private discord server)
+- muahahaha. (blackout shader locked to world constraint) x (shader is disabled upon toggle gameobject true *linked to terminal*)
 
 -
 
