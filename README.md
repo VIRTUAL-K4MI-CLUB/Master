@@ -50,11 +50,13 @@ _and darkness..._
 
 
 link to get back into page: [OwO](https://virtual-k4mi-club.github.io/Master/)
-º
-º
-º
-_am I alive in this timeline?.  hmmm....  no matter._
-º
+
+.
+
+.
+
+_am I alive in this timeline?   hmmm....  no matter_.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdevxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### VK Notez:
