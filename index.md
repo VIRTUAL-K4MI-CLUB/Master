@@ -50,7 +50,7 @@ THIS IS A TEST UWU       for my vr floofy bois
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### VKz 3D Assetz storefront [?]() ![imagez]()
+### VKz 3D Assetz storefront [?]() ![imagez]() hmmmm... gumroad or sketchfab
 
 - # sample ![imagez]
 
@@ -72,10 +72,10 @@ Syntax highlighted code block
 
 - # Serverz
 
-1. Ara
-2.  Ara
-3.   yada
-4.    yada
+1. ara
+ 2.  ara
+  3.   yada
+   4.    yada
 
 
 []()
@@ -88,9 +88,9 @@ Jekyll
 
 [x]()
 
-[Youtube]()
+[Youtube]()   😝 *yes awooo*
 
-[Twitch]()
+[Twitch]()   😐 *system is setup but.... not my cup of tea*
 
 [x]()
 
@@ -98,9 +98,9 @@ Jekyll
 
 
 
-[Patreon]() ![image]()
+[Patreon]() ![image]()  *for club*  
 
-[Merch]()
+[Merch]()  *such TASTY designz. ara ara😜 
 
 - # merchlist
 
