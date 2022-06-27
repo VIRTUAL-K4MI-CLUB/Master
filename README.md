@@ -72,7 +72,8 @@ animate readme msg? ∆
 .
 
 - create discord server for gumroad and support.
-- create discord server for ## VIRTUAL K4MI CLUB
+- create discord server for 
+ ## VIRTUAL K4MI CLUB
 
 4tier
 ## Patreon* Ideaz:
