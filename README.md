@@ -176,4 +176,4 @@ x:you take the last train alone.. to a place  where you watch the world burn and
 -
 _theendisnevertheendisnevertheendisneverthendisnevertheendisnevertheendisnevertheisneverthendisnevertheend...._
 
-x_X a thorn in my heart... it gaws at me endlessly  X_x : "my love is boundless and my pain is terrifying"
+x_X a thorn in my heart... it gnaws at me endlessly  X_x : "my love is boundless and my pain is terrifying"
