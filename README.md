@@ -153,11 +153,11 @@ x- disable: (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role on
 
 x:REALM OF A K4MI*
 
-x:VVIRTUAL K4MI CLUB*
+x:VIRTUAL K4MI CLUB*
 
 x:avatar world* (sdk2,sdk3,PC&Q) (furriez) (e-boyz n galz)
 
-x:Studio 04*
+x:Studio 04* (VIP, private, unpublished)
 
 
 # _should I perish.. a member will upload a patreon unlocked version of the world.. with my "presence" and quotes from my life.. and a requiem._
