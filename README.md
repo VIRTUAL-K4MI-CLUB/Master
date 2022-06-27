@@ -63,7 +63,15 @@ animate readme msg?
 
 link to get back into page: [OwO](https://virtual-k4mi-club.github.io/Master/)
 
+.
+.
+.
 
+Redux Build x2
+
+pc for content
++
+personal pc
 
 
 
