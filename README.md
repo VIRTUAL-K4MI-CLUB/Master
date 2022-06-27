@@ -143,4 +143,8 @@ x- disable: (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role on
   
 -not sure how to detect patreon supporters... so the terminal will unlock patreoniftz.
 
--
+
+x:REALM OF A K4MI*
+x:VVIRTUAL K4MI CLUB*
+x:avatar world* (sdk2,sdk3,PC&Q) (furriez) (e-boyz n galz)
+x:Studio 04*
