@@ -44,62 +44,33 @@ _and darkness..._
 ...
 
 
-
-
-
-
-
 ## _aight. fine. heres your easter egg. good job!_  
-+linktoeasteregg ?private world? ?secret artwork? ?unpublished beat?
-
-animate readme msg?
-
-
-
-
-
-
-
++linktoeasteregg ?private world? ?secret artwork? ?unpublished beat? all of the above?
 
 link to get back into page: [OwO](https://virtual-k4mi-club.github.io/Master/)
 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdevxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+### VK Notez:
+
+
+
+animate readme msg? ∆
+
 .
+
 .
+
+- Redux Build x2:
+- dev pc/content
+- +
+- primary pc/personal
+
 .
 
-Redux Build x2
-
-pc for content
-+
-personal pc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- create discord server for gumroad and support.
+- create discord server for ## VIRTUAL K4MI CLUB
+- .
+- 
