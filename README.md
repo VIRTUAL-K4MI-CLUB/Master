@@ -59,7 +59,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdevxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 animate readme msg? ∆
 
-x wallz:
+# x wallz:
 
 - friendz and OG picture wall. 
 
@@ -78,7 +78,7 @@ x wallz:
 
 - my personal artwork wall
 
-- Redux Build x2:
+# Redux Build x2:
 - dev pc/content/recording
 - +
 - primary pc/personal/VR
