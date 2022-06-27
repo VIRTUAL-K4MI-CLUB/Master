@@ -74,7 +74,7 @@ x wallz:
 
 (compatible with blender)
 
-- content creator ad wall
+- content creator ad wall (the sweet onez)
 
 - my personal artwork wall
 
