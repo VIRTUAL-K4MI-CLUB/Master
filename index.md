@@ -88,9 +88,9 @@ Jekyll
 
 [x]()
 
-[Youtube]()   😝 *yes awooo*
+[Youtube]()   😝 *yesss awoooo*
 
-[Twitch]()   😐 *system is setup but.... not my cup of tea*
+[Twitch]()   😐 *system is setup but.... not my cup of tea* ...maybe private streamz to vr lobby.
 
 [x]()
 
@@ -100,7 +100,7 @@ Jekyll
 
 [Patreon]() ![image]()  *for club*  
 
-[Merch]()  *such TASTY designz. ara ara😜 
+[Merch]()  *such TASTY designz. ara ara* 😜 
 
 - # merchlist
 
