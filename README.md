@@ -142,7 +142,7 @@ x- disable: (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role on
 - muahahaha. (blackout shader locked to worldspace constraint) x (shader is disabled upon toggle gameobject true *linked to terminal*)
 - (no udon lockz!)
   
--not sure how to detect patreon supporters... so the terminal will unlock patreoniftz.
+-not sure how to detect patreon supporters... so the terminal will unlock patreon giftz.
 
 
 x:REALM OF A K4MI*
