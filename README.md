@@ -55,13 +55,16 @@ link to get back into page: [OwO](https://virtual-k4mi-club.github.io/Master/)
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdevxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### VK Notez:
 
-
+*whaaaaaaa..  yes, I can advertise my content and MERCH in my world*
 
 animate readme msg? ∆
 
-.
-
-.
+.wallz:
+-patreon selfie zone
+-patreon supporter wall
+-merch wall
+-content creator ad wall
+-my peronal artwork wall
 
 - Redux Build x2:
 - dev pc/content/recording
