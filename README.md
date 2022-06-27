@@ -81,9 +81,9 @@ X Tier 01
 
 ($4) (1 month)
 
--blep
+- blep
 
--vip roomz
+- vip roomz
 
 -
 
@@ -93,9 +93,9 @@ X Tier 02
 
 ($14) (2 month)
 
--Invite to vr meetupz (twice monthly)
+- Invite to vr meetupz (twice monthly)
 
--avatar picz in world (asthetic 3D photoz only) (memes and irl picz will not be accepted into world.)
+- avatar picz in world (asthetic 3D photoz only) (memes and irl picz will not be accepted into world.)
 
 -
 
@@ -105,7 +105,7 @@ X Tier 03
 
 ($44) (2 month)
 
--40% off commissions
+- 40% off commissions
 
 -
 
@@ -118,9 +118,9 @@ X Tier04*
 
 ($69) (1 month)
 
--Invite to studio 04 (free of charge)
+- Invite to studio 04 (free of charge)
 
--Special blackout room (no door. only jump x-y- code) (code and blackout room location changes monthly)
+- Special blackout room (no door. only jump x-y- code) (code and blackout room location changes monthly)
 
 x- disable (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role only private discord server)
 
