@@ -164,7 +164,7 @@ x:VIRTUAL K4MI CLUB*
 
 x:avatar world* (sdk2,sdk3,PC&Q) (furriez) (e-boyz n galz)
 
-x:Studio 04* (VIP, private, unpublished) (vibez allowe🤗)
+x:Studio 04* (VIP, private, unpublished) (floofy vibez allowed🤗)
 
 
 # _should I perish.. a member will upload a patreon unlocked version of the world.. with my "presence" and quotes from my life.. and a requiem._
