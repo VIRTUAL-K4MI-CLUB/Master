@@ -71,6 +71,7 @@ x wallz:
 
 - merch wall (IRL designs + digital threadz x mirra to try on new clothing) 
 (special edition merch comes with 3D clothing item.) 
+
 (compatible with blender)
 
 - content creator ad wall
