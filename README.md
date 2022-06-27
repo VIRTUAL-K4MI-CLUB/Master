@@ -48,11 +48,11 @@ _and darkness..._
 +linktoeasteregg ?private world? ?secret artwork? ?unpublished beat? all of the above?
 
 link to get back into page: [OwO](https://virtual-k4mi-club.github.io/Master/)
-
-
-
-_am I alive in this timeline?. hmmm....  no matter._
-
+º
+º
+º
+_am I alive in this timeline?.  hmmm....  no matter._
+º
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdevxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### VK Notez:
