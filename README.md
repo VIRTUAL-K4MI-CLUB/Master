@@ -61,16 +61,20 @@ animate readme msg? ∆
 
 x wallz:
 
--patreon selfie zone
+- friendz and OG picture wall. 
 
--patreon supporter wall
+- patreon selfie zone
 
--merch wall (IRL designs + digital threadz x mirra to try on new clothing) 
+- patreon picture wall
+
+- patreon supporter wall (list) (ranked 1-4)
+
+- merch wall (IRL designs + digital threadz x mirra to try on new clothing) 
 (special edition merch comes with 3D clothing item.) (compatible with blendet)
 
--content creator ad wall
+- content creator ad wall
 
--my personal artwork wall
+- my personal artwork wall
 
 - Redux Build x2:
 - dev pc/content/recording
