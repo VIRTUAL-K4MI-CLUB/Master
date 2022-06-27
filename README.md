@@ -59,12 +59,18 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdevxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 animate readme msg? ∆
 
-.wallz:
+x wallz:
+
 -patreon selfie zone
+
 -patreon supporter wall
--merch wall
+
+-merch wall (IRL designs + digital threadz x mirra to try on new clothing) 
+(special edition merch comes with 3D clothing item.) (compatible with blendet)
+
 -content creator ad wall
--my peronal artwork wall
+
+-my personal artwork wall
 
 - Redux Build x2:
 - dev pc/content/recording
