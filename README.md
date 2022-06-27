@@ -84,7 +84,7 @@ X Tier 01
 
 - blep
 
-- 
+- Patreon community room
 
 -
 
@@ -122,10 +122,10 @@ X Tier04*
 - Invite to studio 04 (free of charge)
 
 - Special VIP blackout room (no door. only jump x-y- code *linked to terminal*) (code and blackout room location changes monthly)
-x- disable (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role only private discord server)
-- muahahaha. (blackout shader locked to world constraint) x (shader is disabled upon toggle gameobject true *linked to terminal*)
+x- disable: (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role only private discord server)
+- muahahaha. (blackout shader locked to worldspace constraint) x (shader is disabled upon toggle gameobject true *linked to terminal*)
 - (no udon lockz!)
   
--
+-not sure how to detect patreon supporters... so the terminal will unlock patreoniftz.
 
 -
