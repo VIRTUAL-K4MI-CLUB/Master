@@ -149,6 +149,11 @@ x- disable: (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role on
 - (no udon lockz!)
   
 -not sure how to detect patreon supporters... so the terminal will unlock patreon giftz.
+.
+.
+.
+
+.
 
 
 x:REALM OF A K4MI*
