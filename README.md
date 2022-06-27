@@ -64,9 +64,10 @@ animate readme msg? ∆
 .
 
 - Redux Build x2:
-- dev pc/content
+- dev pc/content/recording
 - +
-- primary pc/personal
+- primary pc/personal/VR
+- third pc/*******
 
 .
 
@@ -76,27 +77,28 @@ animate readme msg? ∆
 4tier
 ## Patreon* Ideaz:
 
-X Tier 01
+X Tier 01 (4$) (1 month)
+-blep
+-vip roomz
 -
+-
+
+X Tier 02 (14) (2 month)
+-Invite to vr meetupz (twice monthly)
+-avatar picz in world (asthetic 3D photoz only) (memes and irl picz will not be accepted into world.)
+-
+-
+
+X Tier 03 (44$) (2 month)
+-40% off commissions
 -
 -
 -
 
-X Tier 02
--
--
--
--
 
-X Tier 03
--
--
--
--
-
-
-X Tier04*
--
--
+X Tier04* (69) (1 month)
+-Invite to studio 04 (free of charge)
+-Special blackout room (no door. only jump x-y- code) (code and blackout room location changes monthly)
+x- disable (jumptoplayerlocation) (rcpm/mic copying hack) (possibly add role only private discord server)
 -
 -
