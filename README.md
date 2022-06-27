@@ -127,7 +127,7 @@ X Tier 03
 
 ($44) (2 month)
 
-- 40% off commissions
+- 40% off commissions   (vrm, fbx, unitypackage, and direct.)
 
 -
 
