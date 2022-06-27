@@ -52,7 +52,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### VKz 3D Assetz storefront [?]() ![imagez]()
 
-- # samples ![imagez]
+- # sample ![imagez]
 
 ```markdown
 Syntax highlighted code block
