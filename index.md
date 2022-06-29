@@ -49,8 +49,9 @@ THIS IS A TEST UWU       for my vr floofy bois
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-# My latest beat; ez.bio
-# Buy Akira a coffee? 
+
+# [My latest beat](ez.bio)
+# Buy Akira a coffee? [KO.FI](https://ko-fi.com/virtualk4mi)
 ### VKz 3D Assetz storefront [Gumroad](https://virtualk4mi.gumroad.com/) ![imagez])
 
 - # sample ![imagez]
@@ -99,7 +100,7 @@ Jekyll
 
 
 
-[Patreon]() ![image]()  *for club*  
+[Patreon](https://www.patreon.com/creator-home) ![image]()  *for club*  
 
 [Merch]()  *such TASTY designz. ara ara* 😜 
 
