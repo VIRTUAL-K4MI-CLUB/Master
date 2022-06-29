@@ -51,7 +51,7 @@ THIS IS A TEST UWU       for my vr floofy bois
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 # My latest beat; ez.bio
 #ko.fi
-### VKz 3D Assetz storefront [?]() ![imagez]() hmmmm... gumroad or sketchfab
+### VKz 3D Assetz storefront [Gumroad](https://virtualk4mi.gumroad.com/) ![imagez])
 
 - # sample ![imagez]
 
