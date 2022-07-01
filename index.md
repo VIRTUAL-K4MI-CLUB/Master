@@ -17,7 +17,7 @@ THIS IS A TEST UWU       for my vr floofy bois
 
 
 
-
+`just chillin, taking my time.`
 ![image](https://raw.githubusercontent.com/VIRTUAL-K4MI-CLUB/Master/gh-pages/274081922_703899790605229_7128817054304030362_n.jpg)
 
 
