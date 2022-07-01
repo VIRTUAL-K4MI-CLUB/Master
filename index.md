@@ -1,5 +1,5 @@
 ## VIRTUAL K4MI: coding my reality _in unity_  
-x add bio, linkz, and. make it neat.
+x _add bio, linkz, and. make it neat._
 
 THIS IS A TEST UWU       for my vr floofy bois
 
@@ -83,6 +83,7 @@ Syntax highlighted code block
 ### Header x 3 x
 
 - # Worldz
+x _add world showcase when back online (one vid per world)_
 
 
 - #
