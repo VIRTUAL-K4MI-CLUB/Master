@@ -52,6 +52,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # [My latest beat](ez.bio)
 # Buy Akira a coffee? [KO.FI](https://ko-fi.com/virtualk4mi)
+
+
+
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Share some love with AKIRA ', '#e028d4', 'G2G5DJ31H');kofiwidget2.draw();</script> 
+
+
+
+
+
+
+
 ### VKz 3D Assetz storefront [Gumroad](https://virtualk4mi.gumroad.com/) ![imagez])
 
 - # sample ![imagez]
