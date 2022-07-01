@@ -75,7 +75,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - # sample ![imagez]
 
-```markdown
+
 Syntax highlighted code block
 
 # Header x 1 x
