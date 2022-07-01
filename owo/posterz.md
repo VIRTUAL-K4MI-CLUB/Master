@@ -50,7 +50,9 @@ if the following guidelines are not met."
 
 
 ## Please DM me (VIRTUAL K4MI) to confirm that your poster follows all the rules, 
-  # before purchasing the `Virtual VIP++ Member` tier on Patreon. you can message me on my discord: ex:()
+  # before purchasing the `Virtual VIP++ Member` tier on Patreon.
+   you must accept the rules and
+  message me on my discord. 
   
   do not DM me without reason, you will be blocked.
   
