@@ -6,17 +6,19 @@
 _at any time_
 if the following guidelines are not met."
 
- for the safety of my community."
+ "for the safety of my community."
 
 ------------------------------------------------------------------------------------------------------
 - you must be 18+ to submit posters to our world.
 
 # - Personal models only. if your model is owned by a third party do NOT submit a poster with expectations of having it accepted.
-- we will require proof of your ownership of the model upon poster submissions. *see submission requirements*
+- we will require proof of your ownership of the model upon poster submissions.
+  *see submission requirements*
 
 - Poster must be in relation to a VRChat community or its residents.
 
-- Poster must not advertise communities that are toxic in ANY form. (no racist/anti-lgbtq+/sexist/ect)    `keep it chill.`
+- Poster must not advertise communities that are toxic in ANY form.
+  (no racist/anti-lgbtq+/sexist/ect)    `keep it chill.`
 
 - Poster cannot advertise anything political. (no exceptions)
 
