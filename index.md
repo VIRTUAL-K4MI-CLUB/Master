@@ -120,11 +120,18 @@ Jekyll
 
 
 
-[Patreon](https://www.patreon.com/creator-home) ![image]()  *for club*  
+[Patreon]  *for club*  
 
 [Merch]()  *such TASTY designz. ara ara* 😜 
 
 - # merchlist
+
+
+<a href="https://www.patreon.com/bePatron?u=76030639" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+
+
+
 
 
  [documentation](https://docs.github.com/categories/github-pages-basics/)
