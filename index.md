@@ -50,14 +50,22 @@ THIS IS A TEST UWU       for my vr floofy bois
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# [My latest beat](ez.bio)
-# Buy Akira a coffee? [KO.FI](https://ko-fi.com/virtualk4mi)
+# [My latest beat](https://virtual-k4mi-club.github.io/Master/owo/recent-videoz)
 
 
 
+ 
+
+
+
+
+
+
+
+# Buy Akira a coffee? 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Share some love with AKIRA ', '#e028d4', 'G2G5DJ31H');kofiwidget2.draw();</script> 
 
-
+# [Club Photoz](https://virtual-k4mi-club.github.io/Master/owo/club-photoz)
 
 [color=red]text[/color]
 
