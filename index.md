@@ -57,7 +57,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Share some love with AKIRA ', '#e028d4', 'G2G5DJ31H');kofiwidget2.draw();</script> 
 
-<iframe id='kofiframe' src='https://ko-fi.com/virtualk4mi/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='virtualk4mi'></iframe>
+
 
 [color=red]text[/color]
 
