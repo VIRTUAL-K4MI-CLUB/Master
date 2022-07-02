@@ -70,7 +70,7 @@ example:
 
 
 
-[Click here if you agree to the rules](https://virtual-k4mi-club.github.io/Master/disc-owo-rd) 
+[Click here if you agree to the rules](https://virtual-k4mi-club.github.io/Master/x/disc-owo-rd) 
 
 
 
