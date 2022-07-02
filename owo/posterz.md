@@ -71,5 +71,9 @@ example:
 
 
 
-[Click here if you agree to the rules](https://virtual-k4mi-club.github.io/Master/DiscOwOrd)     [back to patreon]()
+[Click here if you agree to the rules](https://virtual-k4mi-club.github.io/Master/disc-owo-rd) 
+
+
+
+ack to patreon: https://www.patreon.com/bePatron?u=76030639&redirect_uri=https%3A%2F%2Fvirtual-k4mi-club.github.io%2FMaster%2F&utm_medium=widget
 
