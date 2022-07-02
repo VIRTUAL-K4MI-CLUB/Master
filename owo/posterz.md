@@ -54,7 +54,7 @@ if the following guidelines are not met."
    you must accept the rules and
   message me on my discord. 
   
-  do not DM me without reason, you will be blocked.
+  Do not DM me without reason, as you will be blocked.
   
   # *submission requirements:
  -  1 portrait mode photo of your model. (for poster)
@@ -70,4 +70,5 @@ example:
 
 
 
-click here if you agree to the rule ( ).      back to patreon ( ).
+[Click here if you agree to the rules](https://virtual-k4mi-club.github.io/Master/DiscOwOrd)     [back to patreon]()
+
