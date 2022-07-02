@@ -37,6 +37,8 @@ if the following guidelines are not met."
 - Poster must follow VRChat TOS.
 
 - Poster must not have any symbols that could be represented as political/racist/anti-lgbtq+.
+ 
+- Meme posters or avatars WILL NOT be tolerated or permitted.
 
 # - Posters will be added to worlds as soon as they are verified. 
 # - worlds are updated every Saturday.
