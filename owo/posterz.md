@@ -61,7 +61,7 @@ if the following guidelines are not met."
   - your vrchat gamertag. (to be displayed above poster)
   - a moto of your choosing (optional)
 
-- If your poster fails to comply `[5]` times in a row do to failure to comply with above rules you will get a full refund and be denied future submissions
+- If your poster fails verification `[5]` times in a row do to failure to comply with above rules you will get a full refund and be denied future submissions
 
 
 example:
