@@ -48,9 +48,8 @@ if the following guidelines are not met."
 - if you own your model and have obtained Trusted User (or Known User) your poster will have a far easier time getting verified.
 
 
-
 ## Please DM me (VIRTUAL K4MI) to confirm that your poster follows all the rules, 
-  # before purchasing the `Virtual VIP++ Member` tier on Patreon.
+# Before purchasing the `Virtual VIP++ Member` tier on the Patreon.
    you must accept the rules and
   message me on my discord. 
   
@@ -62,7 +61,7 @@ if the following guidelines are not met."
   - your vrchat gamertag. (to be displayed above poster)
   - a moto of your choosing (optional)
 
-- If your poster fails to comply `[5]`times in a row do to failure to comply with above rules you will get a full refund and be denied future submissions
+- If your poster fails to comply `[5]` times in a row do to failure to comply with above rules you will get a full refund and be denied future submissions
 
 
 example:
@@ -75,5 +74,7 @@ example:
 
 
 
-ack to patreon: https://www.patreon.com/bePatron?u=76030639&redirect_uri=https%3A%2F%2Fvirtual-k4mi-club.github.io%2FMaster%2F&utm_medium=widget
+Back to patreon:
+<a href="https://www.patreon.com/bePatron?u=76030639" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 
