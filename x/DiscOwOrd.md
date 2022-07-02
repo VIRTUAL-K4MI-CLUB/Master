@@ -12,4 +12,4 @@ Code: 00040
 
 
 
-Discord:
+our discord server:
