@@ -37,4 +37,4 @@ _Your Vrchat Gamertag;_
 _Poster Photo;_
 ![image](https://raw.githubusercontent.com/VIRTUAL-K4MI-CLUB/Master/gh-pages/274068227_704191123909429_5075561750844527944_n.jpg)
 _Screenshot of Model Creator;_
-![image](https://github.com/VIRTUAL-K4MI-CLUB/Master/blob/gh-pages/com.oculus.shellenv-20220701-191819.jpg)
+![image](https://raw.githubusercontent.com/VIRTUAL-K4MI-CLUB/Master/gh-pages/com.oculus.shellenv-20220701-200145.jpg)
