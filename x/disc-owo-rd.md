@@ -17,7 +17,7 @@ Code:
 
 our discord server:
 ```
-https://discord.gg/bzhxRebB
+[Discord](https://discord.gg/bzhxRebB)
 ```
 _(this is where you may submit your poster)_
 
