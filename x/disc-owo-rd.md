@@ -2,8 +2,8 @@
 
 # Welcome,
 
-
-use this code as proof you have carefully read and agree to the rules. _(you must DM this code and the poster info to the server master on discord)_
+- use this code as proof you have carefully read and agree to the rules. 
+  _(you must DM this code and the poster info to the server master on discord)_
 
 
 
@@ -14,14 +14,14 @@ Instructions for Poster submissions;
 4. Upon verification of poster make sure you have purchased the `Virtual VIP++ Member` Tier on Patreon
   X. and your good to go. your poster will be displayed in-game on the Patreon poster wall in the main hall of the VIRTUAL K4MI CLUB!
   
-Code: 
+- Code: 
 ```
 ∆00040
 ```
 
 
 
-our discord server:
+- our discord server:
 <iframe src="https://discord.com/widget?id=991642125135532093&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 _(this is where you may submit your poster)_
 
