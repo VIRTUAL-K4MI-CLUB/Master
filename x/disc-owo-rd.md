@@ -7,7 +7,13 @@ use this code as proof you have carefully read and agree to the rules. _(you mus
 
 
 
-
+Instructions for Poster submissions;
+1. Copy code,
+2. Join our Discord.
+3. Submit the following in a DM to `VIRTUAL K4MI`.
+4. Upon verification of poster make sure you have purchased the `Virtual VIP++ Member` Tier on Patreon
+  X. and your good to go. your poster will be displayed in-game on the Patreon poster wall in the main hall of the VIRTUAL K4MI CLUB!
+  
 Code: 
 ```
 ∆00040
@@ -16,9 +22,7 @@ Code:
 
 
 our discord server:
-```
-[Discord](https://discord.gg/bzhxRebB)
-```
+<iframe src="https://discord.com/widget?id=991642125135532093&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 _(this is where you may submit your poster)_
 
 
