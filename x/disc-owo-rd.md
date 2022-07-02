@@ -7,9 +7,15 @@ use this code as proof you have carefully read and agree to the rules.
 
 ∆
 
-Code: ```∆00040```
+Code: 
+```
+∆00040
+```
 
 
 
-our discord server:```yes ```
+our discord server:
+```
+yes
+```
 
