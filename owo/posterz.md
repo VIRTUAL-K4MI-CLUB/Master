@@ -67,6 +67,7 @@ if the following guidelines are not met."
 example:
 ```markdown```
 
+linkimage
 
 
 
