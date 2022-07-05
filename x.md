@@ -44,5 +44,4 @@
 
 
 
-
-```
+`when the stars align he shall rise again.`
