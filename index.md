@@ -135,3 +135,9 @@ Jekyll
 
 
  [documentation](https://docs.github.com/categories/github-pages-basics/)
+ 
+ 
+ 
+ 
+ github:
+  is_project_page: false
