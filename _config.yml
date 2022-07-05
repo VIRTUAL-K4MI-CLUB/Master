@@ -6,3 +6,4 @@ theme: jekyll-theme-hacker
 
 github:
   is_project_page: false
+  {% if site.github.is_project_page %}
