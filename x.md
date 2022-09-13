@@ -7,9 +7,11 @@
 
 
 
+luv ya my furry friendz.
 
 
-`VIRTUAL K4MI is dead`
+
+`VIRTUAL K4MI has fallen `
 
 
 
