@@ -7,11 +7,11 @@
 
 
 
-luv ya my furry friendz.
+luv ya my furry friendz.💜
 
 
 
-`VIRTUAL K4MI has fallen `
+`VIRTUAL K4MI has fallen `💤
 
 
 
