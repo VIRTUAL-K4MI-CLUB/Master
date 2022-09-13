@@ -103,7 +103,7 @@ animate readme msg? ∆
 
 X Tier 01 
 
-($4) (1 month)
+($?) (1 month)
 
 - blep
 
@@ -115,7 +115,7 @@ X Tier 01
 
 X Tier 02
 
-($14) (2 month)
+($?) (2 month)
 
 - Invite to vr meetupz (twice monthly)
 
@@ -127,7 +127,7 @@ X Tier 02
 
 X Tier 03 
 
-($44) (2 month)
+($?) (2 month)
 
 - 40% off commissions   (vrm, fbx, unitypackage, and direct.)
 
@@ -140,7 +140,7 @@ X Tier 03
 
 X Tier04* 
 
-($69) (1 month)
+(?) (1 month)
 
 - Invite to studio 04 (free of charge)
 
