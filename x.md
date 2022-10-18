@@ -7,7 +7,8 @@
 
 
 
-`VIRTUAL K4MI has fallen`
+`welcome to my website`
+Website currently under maintenance 
 
 
 
@@ -70,4 +71,4 @@
 
 
 
-`when the stars align he shall rise again.`
+`here is a image of my latest model.`
