@@ -8,7 +8,8 @@
 
 
 `welcome to my website`
-Website currently under maintenance 
+
+Website currently under development 
 
 
 
@@ -71,4 +72,4 @@ Website currently under maintenance
 
 
 
-`here is a image of my latest model.`
+`here is my latest commissioned model.`
