@@ -7,9 +7,9 @@
 
 
 
-`welcome to my website`
+`VIRTUAL K4MI is now a ghost`
 
-Website currently under development 
+
 
 
 
@@ -72,4 +72,4 @@ Website currently under development
 
 
 
-`here is my latest commissioned model.`
+`When the stars align he shall rise again.`
