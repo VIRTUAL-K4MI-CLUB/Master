@@ -1,6 +1,9 @@
 ## VIRTUAL K4MI: coding my reality _in unity_  
 x _add bio, linkz, and. make it neat._
 
+Furaffinity.net 
+Carrd uwu.ai
+
 THIS IS A TEST UWU       for my vr floofy bois
 
 
