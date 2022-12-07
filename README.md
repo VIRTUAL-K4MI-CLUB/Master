@@ -88,18 +88,19 @@ animate readme msg? ∆
 
 # Redux Build x2:
 - dev pc/content/recording
-- +
 - primary pc/personal/VR
 - third pc/*******
 
-.
+-starlink
 
-- create discord server for gumroad and support.
+
+- create patreon discord wod both, check
 - create discord server for 
- ## VIRTUAL K4MI CLUB
+ ## VIRTUAL K4MI CLB
 
 4tier
 ## Patreon* Ideaz:
+Lock giftz wid passcode
 
 X Tier 01 
 
