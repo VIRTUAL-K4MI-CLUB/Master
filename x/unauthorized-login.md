@@ -17,5 +17,5 @@
 
 
 
-'were not ready for ya yet, UwU.  '
+Were not ready for ya yet, UwU.
 
