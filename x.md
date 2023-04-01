@@ -7,7 +7,7 @@
 
 
 
-`VIRTUAL K4MI has entered the shadow realm`
+`VIRTUAL K4MI has entered the shadow realm.`
 
 
 
