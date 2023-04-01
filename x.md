@@ -7,7 +7,7 @@
 
 
 
-`VIRTUAL K4MI has terminated his existence`
+`VIRTUAL K4MI has entered the shadow realm`
 
 
 
