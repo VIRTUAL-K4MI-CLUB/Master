@@ -2,7 +2,7 @@
 
 No activation sequence available.
 
-Try again on startup date, UwU.
+Try again on startup date, UwU
 
 
 
