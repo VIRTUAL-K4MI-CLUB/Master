@@ -7,7 +7,7 @@
 
 
 
-`VIRTUAL K4MI is now a Ghost`
+`VIRTUAL K4MI has terminated his existence`
 
 
 
