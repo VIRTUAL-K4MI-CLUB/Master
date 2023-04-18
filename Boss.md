@@ -38,4 +38,7 @@ as everyday I live stronger.
 
 
 "Do not compare thyself to thine enemy,
- but to thine self of past"
+ but to thine self of past.
+And remain committed to thin eself of the future."
+
+
