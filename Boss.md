@@ -22,7 +22,7 @@ The normal stuff,
 
 Basicly, 
 I am able to create any necessary digital 
-assets so long as it belongs within my dream.
+assets so long as they belong within my dream.
 
 Within the multiverse my mind is unchained,
 
@@ -32,7 +32,7 @@ Soon my wings will bear my weight,
 as everyday I live stronger. 
 
 
-
+``VIRTUAL K4MI; coding my reality``
 
 
 
@@ -41,5 +41,7 @@ but to thine self of past.
 
 and remain committed always,           
 to thine self of the future."
+
+
 
 
