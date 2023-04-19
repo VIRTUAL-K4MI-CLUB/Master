@@ -25,11 +25,10 @@ I am able to create any necessary digital
 assets so long as it belongs within my dream.
 
 Within the multiverse my mind is unchained,
- 
+
 Within this world my vessel is forever evolving.
 
-Soon my wings will bear my weight,
-
+Soon my wings will bear my weight,        
 as everyday I live stronger. 
 
 
@@ -38,9 +37,9 @@ as everyday I live stronger.
 
 
 "Do not compare thyself to thine enemy,
- but to thine self of past.
+but to thine self of past.
 
-And remain committed always,
- to thine self of the future."
+and remain committed always,           
+to thine self of the future."
 
 
