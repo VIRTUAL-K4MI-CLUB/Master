@@ -32,9 +32,6 @@ Soon my wings will bear my weight,
 as everyday I live stronger. 
 
 
-``VIRTUAL K4MI; coding my reality``
-
-
 
 "Do not compare thyself to thine enemy,
 but to thine self of past.
@@ -42,6 +39,4 @@ but to thine self of past.
 and remain committed always,           
 to thine self of the future."
 
-
-
-
+``VIRTUAL K4MI; coding my reality``
