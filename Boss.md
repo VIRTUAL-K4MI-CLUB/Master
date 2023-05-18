@@ -5,17 +5,15 @@ AKIWA'S HOBBIES:
 
 ``BODYBUILDING``
 ``BREAKDANCING``
-
-○
-
-
 ``CALISTHENICS``
 ``JAM SKATING``
 
 
 
+
+
 AKIWA'S SKILLS:
- 
+
 The normal stuff,
 
 ``Sound engineer``
