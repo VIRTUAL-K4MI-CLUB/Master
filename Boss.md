@@ -6,9 +6,16 @@ AKIWA'S HOBBIES:
 ``BODYBUILDING``
 ``BREAKDANCING``
 
+○
+
+
+``CALISTHENICS``
+``JAM SKATING``
+
+
 
 AKIWA'S SKILLS:
-
+ 
 The normal stuff,
 
 ``Sound engineer``
@@ -20,16 +27,15 @@ The normal stuff,
 
 
 
-Basicly, 
-I am able to create any necessary digital 
-assets so long as they belong within my dream.
+Essentially, 
+It seems I am able to 
+create any necessary digital assets within the multiverse, so long as they belong within my dream.
 
 Within the multiverse my mind is unchained,
 
 Within this world my vessel is forever evolving.
 
-Soon my wings will bear my weight,        
-as everyday I live stronger. 
+Soon my wings will bear the weight of my love as everyday I live stronger. 
 
 
 
