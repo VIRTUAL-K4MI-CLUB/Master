@@ -1,6 +1,16 @@
 ``Welcome Master Akiwa``
 
 
+○
+
+○
+
+○
+
+○
+
+○
+
 
 
 
