@@ -6,7 +6,7 @@ AKIWA'S HOBBIES:
 ``BODYBUILDING``
 ``BREAKDANCING``
 ``CALISTHENICS``
-``JAM SKATING``
+``?``
 
 
 
@@ -27,7 +27,9 @@ The normal stuff,
 
 Essentially, 
 It seems I am able to 
-create any necessary digital assets within the multiverse, so long as they belong within my dream.
+create any necessary digital assets within the multiverse,
+
+so long as they belong within my vision.
 
 Within the multiverse my mind is unchained,
 
