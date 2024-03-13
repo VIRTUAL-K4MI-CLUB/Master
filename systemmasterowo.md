@@ -3,7 +3,7 @@
 <a href="https://kamisystemowo.carrd.co/" onclick="javascript:return validatePass()">KÅMI</a>
 <script>
 function validatePass(){
-    if(document.getElementById('password').value == 'Floofy ßoi){
+    if(document.getElementById('password').value == 'Floofy ßoi AKIWA){
         return true;
     }else{
         alert('passcode not recognized.');
