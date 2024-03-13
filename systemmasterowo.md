@@ -1,4 +1,4 @@
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
  `MASTER` <input id='password' type='text'  />
 <a href="https://kamisystemowo.carrd.co/" onclick="javascript:return validatePass()">AKIWA KÅMI</a>
 <script>
@@ -11,7 +11,8 @@ function validatePass(){
     }
 }
 </script>
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 
 
