@@ -37,7 +37,7 @@ Within the multiverse my mind is unchained,
 
 Within this world my vessel is forever evolving.
 
-Soon my wings will bear the weight of my love as everyday I live stronger. 
+Soon my wings will bear the weight of my passion as everyday I live and grow stronger. 
 
 
 
