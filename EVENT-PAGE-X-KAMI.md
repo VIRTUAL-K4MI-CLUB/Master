@@ -1,1 +1,1 @@
-'no events planned yet'
+`awwwwww,  no events are live yet`
